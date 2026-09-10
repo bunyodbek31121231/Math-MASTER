@@ -26,7 +26,7 @@ import java.io.ByteArrayOutputStream
 import java.util.UUID
 
 @RunWith(RobolectricTestRunner::class)
-@Config(sdk = [36])
+@Config(sdk = [34])
 class PdfImportPipelineTest {
 
     private lateinit var database: AppDatabase

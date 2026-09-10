@@ -34,7 +34,7 @@ import org.robolectric.annotation.Config
 import kotlin.random.Random
 
 @RunWith(RobolectricTestRunner::class)
-@Config(sdk = [36])
+@Config(sdk = [34])
 class ProblemEngineTest {
 
     private lateinit var database: AppDatabase
