@@ -1,0 +1,6 @@
+{
+  "name": "Math MASTER",
+  "description": "Production-quality mathematics learning, practice, testing and progress-tracking platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

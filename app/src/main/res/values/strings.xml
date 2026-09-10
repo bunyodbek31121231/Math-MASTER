@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Math MASTER</string>
+    <string name="tagline">Master Mathematics Step by Step</string>
+    
+    <!-- Auth -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue your mathematical journey</string>
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Begin mastering mathematics today</string>
+    <string name="name_label">Full Name</string>
+    <string name="username_label">Username or Email</string>
+    <string name="password_label">Password</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="register_button">Create Account</string>
+    <string name="no_account_prompt">Don\'t have an account? Register</string>
+    <string name="have_account_prompt">Already have an account? Sign In</string>
+    
+    <!-- Home -->
+    <string name="continue_practice">Continue Practice</string>
+    <string name="topics_title">Topics</string>
+    <string name="test_mode">Test Mode</string>
+    <string name="progress_title">Progress</string>
+    <string name="profile_title">Profile</string>
+    <string name="maxsus_title">MAXSUS</string>
+    <string name="maxsus_subtitle">Special Materials &amp; Advanced Testing</string>
+    <string name="quick_stats">Quick Stats</string>
+    
+    <!-- Question -->
+    <string name="question_number">Problem</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="next_problem">Next Problem</string>
+    <string name="finish_session">Finish Session</string>
+    <string name="solution">Solution &amp; Explanation</string>
+    <string name="formula">Key Formula</string>
+    
+    <!-- Test -->
+    <string name="start_test">Start Test</string>
+    <string name="stop_test">Finish Test</string>
+    <string name="test_results">Test Results</string>
+    <string name="score">Score</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+
+    <!-- Question & Practice -->
+    <string name="practice_session_summary">Practice Session Summary</string>
+    <string name="solution_title">Step-by-Step Solution</string>
+    <string name="explanation_title">Mathematical Explanation</string>
+
+    <!-- Test Dialogs -->
+    <string name="stop_test_dialog_title">Stop Test?</string>
+    <string name="stop_test_dialog_message">Are you sure you want to finish the test? Your answered questions will be scored.</string>
+    <string name="finish_test_button">Finish Test</string>
+    <string name="test_results_title">Test Results</string>
+
+    <!-- Maxsus -->
+    <string name="maxsus_enter_password">Enter passcode to unlock MAXSUS</string>
+    <string name="maxsus_gate_title">MAXSUS Access Gate</string>
+    <string name="maxsus_gate_prompt">Enter authorized access code to unlock special book materials</string>
+    <string name="unlock_button">Unlock Section</string>
+</resources>
